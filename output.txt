@@ -1,0 +1,2658 @@
+201501-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 7840 rows
+tripduration                                                             542
+starttime                                                2015-01-01 00:21:44
+stoptime                                                 2015-01-01 00:30:47
+start station id                                                         115
+start station name                                     Porter Square Station
+start station latitude                                             42.387995
+start station longitude                                           -71.119084
+end station id                                                            96
+end station name           Cambridge Main Library at Broadway / Trowbridg...
+end station latitude                                               42.373379
+end station longitude                                             -71.111075
+bikeid                                                                   277
+usertype                                                          Subscriber
+birth year                                                              1984
+gender                                                                     1
+Name: 0, dtype: object
+201502-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 4020 rows
+tripduration                                                             370
+starttime                                                2015-02-01 00:10:58
+stoptime                                                 2015-02-01 00:17:08
+start station id                                                          76
+start station name         Central Sq Post Office / Cambridge City Hall a...
+start station latitude                                             42.366426
+start station longitude                                           -71.105495
+end station id                                                           117
+end station name                                        Binney St / Sixth St
+end station latitude                                               42.366095
+end station longitude                                             -71.086388
+bikeid                                                                   703
+usertype                                                          Subscriber
+birth year                                                              1984
+gender                                                                     1
+Name: 0, dtype: object
+201503-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 11271 rows
+tripduration                                                             337
+starttime                                                2015-03-01 13:01:50
+stoptime                                                 2015-03-01 13:07:27
+start station id                                                         108
+start station name         Harvard University / SEAS Cruft-Pierce Halls a...
+start station latitude                                             42.377945
+start station longitude                                           -71.116865
+end station id                                                            88
+end station name               Inman Square at Vellucci Plaza / Hampshire St
+end station latitude                                               42.374035
+end station longitude                                             -71.101427
+bikeid                                                                   769
+usertype                                                          Subscriber
+birth year                                                              1988
+gender                                                                     2
+Name: 0, dtype: object
+201504-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 55843 rows
+tripduration                                                     884
+starttime                                        2015-04-01 00:24:59
+stoptime                                         2015-04-01 00:39:43
+start station id                                                  74
+start station name               Harvard Square at Mass Ave/ Dunster
+start station latitude                                     42.373268
+start station longitude                                   -71.118579
+end station id                                                   116
+end station name           359 Broadway - Broadway at Fayette Street
+end station latitude                                       42.370803
+end station longitude                                     -71.104412
+bikeid                                                          1076
+usertype                                                  Subscriber
+birth year                                                        \N
+gender                                                             0
+Name: 0, dtype: object
+201505-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 149143 rows
+tripduration                                               909
+starttime                                  2015-05-01 00:01:12
+stoptime                                   2015-05-01 00:16:21
+start station id                                           115
+start station name                       Porter Square Station
+start station latitude                               42.387995
+start station longitude                             -71.119084
+end station id                                              74
+end station name           Harvard Square at Mass Ave/ Dunster
+end station latitude                                 42.373268
+end station longitude                               -71.118579
+bikeid                                                     751
+usertype                                            Subscriber
+birth year                                                  \N
+gender                                                       0
+Name: 0, dtype: object
+201506-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 144232 rows
+tripduration                                                             211
+starttime                                                2015-06-01 00:07:07
+stoptime                                                 2015-06-01 00:10:39
+start station id                                                          88
+start station name             Inman Square at Vellucci Plaza / Hampshire St
+start station latitude                                             42.374035
+start station longitude                                           -71.101427
+end station id                                                            96
+end station name           Cambridge Main Library at Broadway / Trowbridg...
+end station latitude                                               42.373379
+end station longitude                                             -71.111075
+bikeid                                                                   546
+usertype                                                          Subscriber
+birth year                                                                \N
+gender                                                                     0
+Name: 0, dtype: object
+201507-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 175321 rows
+tripduration                                                             488
+starttime                                                2015-07-01 00:02:59
+stoptime                                                 2015-07-01 00:11:07
+start station id                                                          49
+start station name                                 Stuart St. at Charles St.
+start station latitude                                             42.351146
+start station longitude                                           -71.066289
+end station id                                                            13
+end station name           Boston Medical Center -  East Concord at Harri...
+end station latitude                                               42.336437
+end station longitude                                             -71.073089
+bikeid                                                                   609
+usertype                                                          Subscriber
+birth year                                                              1994
+gender                                                                     2
+Name: 0, dtype: object
+201508-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 160065 rows
+tripduration                                                        1474
+starttime                                            2015-08-01 00:01:11
+stoptime                                             2015-08-01 00:25:46
+start station id                                                      60
+start station name         Charles Circle - Charles St. at Cambridge St.
+start station latitude                                         42.360835
+start station longitude                                        -71.07084
+end station id                                                       141
+end station name                                          Kendall Street
+end station latitude                                            42.36356
+end station longitude                                         -71.082168
+bikeid                                                               596
+usertype                                                      Subscriber
+birth year                                                            \N
+gender                                                                 0
+Name: 0, dtype: object
+201509-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 150516 rows
+tripduration                                                             458
+starttime                                                2015-09-01 00:00:36
+stoptime                                                 2015-09-01 00:08:15
+start station id                                                          13
+start station name         Boston Medical Center -  East Concord at Harri...
+start station latitude                                             42.336437
+start station longitude                                           -71.073089
+end station id                                                            16
+end station name                                Back Bay / South End Station
+end station latitude                                               42.348074
+end station longitude                                              -71.07657
+bikeid                                                                   131
+usertype                                                          Subscriber
+birth year                                                              1982
+gender                                                                     1
+Name: 0, dtype: object
+201510-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 126656 rows
+tripduration                                                             191
+starttime                                                2015-10-01 00:01:56
+stoptime                                                 2015-10-01 00:05:07
+start station id                                                         110
+start station name         Harvard University Gund Hall at Quincy St / Ki...
+start station latitude                                             42.376369
+start station longitude                                           -71.114025
+end station id                                                            97
+end station name           Harvard University River Houses at DeWolfe St ...
+end station latitude                                                42.36919
+end station longitude                                             -71.117141
+bikeid                                                                   742
+usertype                                                          Subscriber
+birth year                                                              1994
+gender                                                                     1
+Name: 0, dtype: object
+201511-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 88735 rows
+tripduration                                                            641
+starttime                                               2015-11-01 00:00:05
+stoptime                                                2015-11-01 00:10:47
+start station id                                                         14
+start station name         HMS / HSPH - Ave. Louis Pasteur at Longwood Ave.
+start station latitude                                            42.337171
+start station longitude                                          -71.102797
+end station id                                                           53
+end station name                                       Beacon St / Mass Ave
+end station latitude                                              42.350851
+end station longitude                                            -71.089886
+bikeid                                                                 1247
+usertype                                                         Subscriber
+birth year                                                             1990
+gender                                                                    1
+Name: 0, dtype: object
+201512-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 48916 rows
+tripduration                                                          133
+starttime                                             2015-12-01 00:01:52
+stoptime                                              2015-12-01 00:04:06
+start station id                                                        9
+start station name                          Agganis Arena - 925 Comm Ave.
+start station latitude                                          42.351246
+start station longitude                                        -71.115639
+end station id                                                         41
+end station name           Packard's Corner - Comm. Ave. at Brighton Ave.
+end station latitude                                            42.352261
+end station longitude                                          -71.123831
+bikeid                                                                199
+usertype                                                         Customer
+birth year                                                           1995
+gender                                                                  1
+Name: 0, dtype: object
+201601-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 12055 rows
+tripduration                                                   1939
+starttime                                       2016-01-01 00:08:07
+stoptime                                        2016-01-01 00:40:26
+start station id                                                 36
+start station name         Boston Public Library - 700 Boylston St.
+start station latitude                                    42.349673
+start station longitude                                  -71.077303
+end station id                                                   19
+end station name                            Buswell St. at Park Dr.
+end station latitude                                      42.347241
+end station longitude                                    -71.105301
+bikeid                                                         1406
+usertype                                                 Subscriber
+birth year                                                       \N
+gender                                                            0
+Name: 0, dtype: object
+201602-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 14643 rows
+tripduration                                                   293
+starttime                                      2016-02-01 00:00:48
+stoptime                                       2016-02-01 00:05:41
+start station id                                                80
+start station name         MIT Stata Center at Vassar St / Main St
+start station latitude                                   42.361962
+start station longitude                                 -71.092053
+end station id                                                 178
+end station name                   MIT Pacific St at Purrington St
+end station latitude                                     42.359573
+end station longitude                                   -71.101295
+bikeid                                                         657
+usertype                                                Subscriber
+birth year                                                    1990
+gender                                                           1
+Name: 0, dtype: object
+201603-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 41277 rows
+tripduration                                                       835
+starttime                                          2016-03-01 00:01:42
+stoptime                                           2016-03-01 00:15:38
+start station id                                                   140
+start station name                                         Danehy Park
+start station latitude                                       42.388966
+start station longitude                                     -71.132788
+end station id                                                      95
+end station name           Cambridge St - at Columbia St / Webster Ave
+end station latitude                                         42.372969
+end station longitude                                       -71.094445
+bikeid                                                             864
+usertype                                                    Subscriber
+birth year                                                        1987
+gender                                                               1
+Name: 0, dtype: object
+201604-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 84262 rows
+tripduration                                                            1152
+starttime                                                2016-04-01 00:01:19
+stoptime                                                 2016-04-01 00:20:32
+start station id                                                          16
+start station name                              Back Bay / South End Station
+start station latitude                                             42.348074
+start station longitude                                            -71.07657
+end station id                                                            17
+end station name           Harvard University Housing - 111 Western Ave. ...
+end station latitude                                               42.365064
+end station longitude                                             -71.119233
+bikeid                                                                  1005
+usertype                                                          Subscriber
+birth year                                                              1986
+gender                                                                     1
+Name: 0, dtype: object
+201605-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 129260 rows
+tripduration                                                         450
+starttime                                            2016-05-01 00:00:51
+stoptime                                             2016-05-01 00:08:21
+start station id                                                      72
+start station name         One Broadway / Kendall Sq at Main St / 3rd St
+start station latitude                                         42.362613
+start station longitude                                       -71.084105
+end station id                                                        90
+end station name             Lechmere Station at Cambridge St / First St
+end station latitude                                           42.370677
+end station longitude                                         -71.076529
+bikeid                                                              1235
+usertype                                                      Subscriber
+birth year                                                          1981
+gender                                                                 1
+Name: 0, dtype: object
+201606-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 164667 rows
+tripduration                                                       488
+starttime                                          2016-06-01 00:02:32
+stoptime                                           2016-06-01 00:10:41
+start station id                                                    38
+start station name              TD Garden - Causeway at Portal Park #2
+start station latitude                                       42.366222
+start station longitude                                     -71.059914
+end station id                                                      90
+end station name           Lechmere Station at Cambridge St / First St
+end station latitude                                         42.370677
+end station longitude                                       -71.076529
+bikeid                                                             200
+usertype                                                    Subscriber
+birth year                                                        1981
+gender                                                               1
+Name: 0, dtype: object
+201607-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 167385 rows
+tripduration                                         370
+starttime                            2016-07-01 00:00:54
+stoptime                             2016-07-01 00:07:04
+start station id                                      39
+start station name         Washington St. at Rutland St.
+start station latitude                         42.338493
+start station longitude                       -71.074019
+end station id                                        56
+end station name                           Dudley Square
+end station latitude                           42.328654
+end station longitude                         -71.084198
+bikeid                                              1317
+usertype                                      Subscriber
+birth year                                          1985
+gender                                                 1
+Name: 0, dtype: object
+201608-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 174198 rows
+tripduration                                                             548
+starttime                                                2016-08-01 00:02:50
+stoptime                                                 2016-08-01 00:11:59
+start station id                                                          76
+start station name         Central Sq Post Office / Cambridge City Hall a...
+start station latitude                                             42.366426
+start station longitude                                           -71.105495
+end station id                                                            71
+end station name                             Conway Park - Somerville Avenue
+end station latitude                                               42.383405
+end station longitude                                             -71.107593
+bikeid                                                                  1643
+usertype                                                          Subscriber
+birth year                                                              1982
+gender                                                                     1
+Name: 0, dtype: object
+201609-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 165690 rows
+tripduration                                                         1168
+starttime                                             2016-09-01 00:00:58
+stoptime                                              2016-09-01 00:20:26
+start station id                                                       24
+start station name         Seaport Square - Seaport Blvd. at Boston Wharf
+start station latitude                                          42.351205
+start station longitude                                        -71.043983
+end station id                                                         20
+end station name                     Aquarium Station - 200 Atlantic Ave.
+end station latitude                                             42.35977
+end station longitude                                          -71.051601
+bikeid                                                               1265
+usertype                                                         Customer
+birth year                                                             \N
+gender                                                                  0
+Name: 0, dtype: object
+201610-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 137865 rows
+tripduration                                623
+starttime                   2016-10-01 00:02:59
+stoptime                    2016-10-01 00:13:23
+start station id                            189
+start station name                    Kendall T
+start station latitude                42.362428
+start station longitude              -71.084955
+end station id                               53
+end station name           Beacon St / Mass Ave
+end station latitude                  42.350851
+end station longitude                -71.089886
+bikeid                                       57
+usertype                             Subscriber
+birth year                                 1993
+gender                                        2
+Name: 0, dtype: object
+201611-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 99910 rows
+tripduration                                                       196
+starttime                                          2016-11-01 00:00:35
+stoptime                                           2016-11-01 00:03:52
+start station id                                                    95
+start station name         Cambridge St - at Columbia St / Webster Ave
+start station latitude                                       42.372969
+start station longitude                                     -71.094445
+end station id                                                      78
+end station name                             Union Square - Somerville
+end station latitude                                         42.379637
+end station longitude                                       -71.095319
+bikeid                                                            1380
+usertype                                                    Subscriber
+birth year                                                        1983
+gender                                                               2
+Name: 0, dtype: object
+201612-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 44991 rows
+tripduration                                                             932
+starttime                                           2016-12-01 00:13:13.5700
+stoptime                                            2016-12-01 00:28:46.3210
+start station id                                                         218
+start station name         Watermark Seaport - Boston Wharf Rd at Seaport...
+start station latitude                                             42.351586
+start station longitude                                           -71.045693
+end station id                                                            58
+end station name                                   Beacon St at Arlington St
+end station latitude                                               42.355549
+end station longitude                                             -71.072842
+bikeid                                                                  1085
+usertype                                                          Subscriber
+birth year                                                              1994
+gender                                                                     1
+Name: 0, dtype: object
+201701-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 19518 rows
+tripduration                                        350
+starttime                           2017-01-01 00:06:58
+stoptime                            2017-01-01 00:12:49
+start station id                                     67
+start station name         MIT at Mass Ave / Amherst St
+start station latitude                          42.3581
+start station longitude                      -71.093198
+end station id                                      139
+end station name                              Dana Park
+end station latitude                           42.36178
+end station longitude                          -71.1081
+bikeid                                              644
+usertype                                     Subscriber
+birth year                                         1988
+gender                                                1
+Name: 0, dtype: object
+201702-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 17272 rows
+tripduration                                           249
+starttime                              2017-02-01 00:14:42
+stoptime                               2017-02-01 00:18:52
+start station id                                        67
+start station name            MIT at Mass Ave / Amherst St
+start station latitude                             42.3581
+start station longitude                         -71.093198
+end station id                                         178
+end station name           MIT Pacific St at Purrington St
+end station latitude                             42.359573
+end station longitude                           -71.101295
+bikeid                                                1290
+usertype                                        Subscriber
+birth year                                            1990
+gender                                                   1
+Name: 0, dtype: object
+201703-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 31253 rows
+tripduration                                                       391
+starttime                                          2017-03-01 00:00:20
+stoptime                                           2017-03-01 00:06:52
+start station id                                                    95
+start station name         Cambridge St - at Columbia St / Webster Ave
+start station latitude                                       42.372969
+start station longitude                                     -71.094445
+end station id                                                      68
+end station name                 Central Square at Mass Ave / Essex St
+end station latitude                                          42.36507
+end station longitude                                         -71.1031
+bikeid                                                             752
+usertype                                                    Subscriber
+birth year                                                        1984
+gender                                                               1
+Name: 0, dtype: object
+201704-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 99860 rows
+tripduration                                                      212
+starttime                                         2017-04-01 00:15:54
+stoptime                                          2017-04-01 00:19:27
+start station id                                                   74
+start station name                Harvard Square at Mass Ave/ Dunster
+start station latitude                                      42.373268
+start station longitude                                    -71.118579
+end station id                                                     89
+end station name           Harvard Law School at Mass Ave / Jarvis St
+end station latitude                                        42.379011
+end station longitude                                      -71.119945
+bikeid                                                            245
+usertype                                                   Subscriber
+birth year                                                       1989
+gender                                                              1
+Name: 0, dtype: object
+201705-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 127894 rows
+tripduration                                                       646
+starttime                                          2017-05-01 00:00:21
+stoptime                                           2017-05-01 00:11:07
+start station id                                                    22
+start station name                    South Station - 700 Atlantic Ave
+start station latitude                                       42.352175
+start station longitude                                     -71.055547
+end station id                                                      90
+end station name           Lechmere Station at Cambridge St / First St
+end station latitude                                         42.370677
+end station longitude                                       -71.076529
+bikeid                                                             596
+usertype                                                    Subscriber
+birth year                                                        1980
+gender                                                               1
+Name: 0, dtype: object
+201706-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 161910 rows
+tripduration                                                       419
+starttime                                          2017-06-01 00:00:35
+stoptime                                           2017-06-01 00:07:35
+start station id                                                     5
+start station name         Northeastern University - North Parking Lot
+start station latitude                                       42.341814
+start station longitude                                     -71.090179
+end station id                                                      53
+end station name                        Beacon St at Massachusetts Ave
+end station latitude                                         42.350827
+end station longitude                                       -71.089811
+bikeid                                                             388
+usertype                                                    Subscriber
+birth year                                                        1991
+gender                                                               2
+Name: 0, dtype: object
+201707-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 175833 rows
+tripduration                                                       463
+starttime                                          2017-07-01 00:00:21
+stoptime                                           2017-07-01 00:08:05
+start station id                                                    22
+start station name                    South Station - 700 Atlantic Ave
+start station latitude                                       42.352175
+start station longitude                                     -71.055547
+end station id                                                      60
+end station name           Charles Circle - Charles St at Cambridge St
+end station latitude                                         42.360714
+end station longitude                                       -71.070928
+bikeid                                                             706
+usertype                                                    Subscriber
+birth year                                                        1993
+gender                                                               1
+Name: 0, dtype: object
+201708-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 190651 rows
+tripduration                                           754
+starttime                              2017-08-01 00:00:54
+stoptime                               2017-08-01 00:13:28
+start station id                                       178
+start station name         MIT Pacific St at Purrington St
+start station latitude                           42.359573
+start station longitude                         -71.101295
+end station id                                          78
+end station name                 Union Square - Somerville
+end station latitude                             42.379637
+end station longitude                           -71.095319
+bikeid                                                 639
+usertype                                        Subscriber
+birth year                                            1986
+gender                                                   1
+Name: 0, dtype: object
+201709-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 165386 rows
+tripduration                               759
+starttime                  2017-09-01 00:00:56
+stoptime                   2017-09-01 00:13:36
+start station id                           177
+start station name             University Park
+start station latitude               42.362648
+start station longitude             -71.100061
+end station id                             179
+end station name                 MIT Vassar St
+end station latitude                 42.355601
+end station longitude               -71.103945
+bikeid                                    1572
+usertype                              Customer
+birth year                                  \N
+gender                                       0
+Name: 0, dtype: object
+201710-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 163662 rows
+tripduration                                125
+starttime                   2017-10-01 00:03:43
+stoptime                    2017-10-01 00:05:48
+start station id                            107
+start station name           Ames St at Main St
+start station latitude                  42.3625
+start station longitude               -71.08822
+end station id                              117
+end station name           Binney St / Sixth St
+end station latitude                  42.366095
+end station longitude                -71.086388
+bikeid                                      720
+usertype                             Subscriber
+birth year                                 1992
+gender                                        1
+Name: 0, dtype: object
+201711-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 105463 rows
+tripduration                                            538
+starttime                               2017-11-01 00:02:12
+stoptime                                2017-11-01 00:11:11
+start station id                                          4
+start station name              Tremont St at E Berkeley St
+start station latitude                            42.345392
+start station longitude                          -71.069616
+end station id                                           55
+end station name           Boylston St at Massachusetts Ave
+end station latitude                              42.347265
+end station longitude                            -71.088088
+bikeid                                                 1038
+usertype                                         Subscriber
+birth year                                             1987
+gender                                                    2
+Name: 0, dtype: object
+201712-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 55072 rows
+tripduration                                                             200
+starttime                                                2017-12-01 00:02:02
+stoptime                                                 2017-12-01 00:05:22
+start station id                                                         160
+start station name         Wentworth Institute of Technology - Huntington...
+start station latitude                                             42.337586
+start station longitude                                           -71.096271
+end station id                                                            12
+end station name           Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+end station latitude                                               42.336244
+end station longitude                                             -71.087986
+bikeid                                                                  1938
+usertype                                                          Subscriber
+birth year                                                              1982
+gender                                                                     0
+Name: 0, dtype: object
+201801-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 40932 rows
+tripduration                                           388
+starttime                              2018-01-01 00:16:33
+stoptime                               2018-01-01 00:23:01
+start station id                                       178
+start station name         MIT Pacific St at Purrington St
+start station latitude                           42.359573
+start station longitude                         -71.101295
+end station id                                         107
+end station name                        Ames St at Main St
+end station latitude                               42.3625
+end station longitude                            -71.08822
+bikeid                                                 643
+usertype                                        Subscriber
+birth year                                          1992.0
+gender                                                   2
+Name: 0, dtype: object
+201802-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 62817 rows
+tripduration                                                       795
+starttime                                          2018-02-01 00:02:11
+stoptime                                           2018-02-01 00:15:27
+start station id                                                    67
+start station name                        MIT at Mass Ave / Amherst St
+start station latitude                                         42.3581
+start station longitude                                     -71.093198
+end station id                                                      95
+end station name           Cambridge St - at Columbia St / Webster Ave
+end station latitude                                         42.372969
+end station longitude                                       -71.094445
+bikeid                                                             606
+usertype                                                    Subscriber
+birth year                                                      1995.0
+gender                                                               1
+Name: 0, dtype: object
+201803-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 62985 rows
+tripduration                                                            1464
+starttime                                                2018-03-01 00:00:38
+stoptime                                                 2018-03-01 00:25:03
+start station id                                                          75
+start station name         Lafayette Square at Mass Ave / Main St / Colum...
+start station latitude                                             42.363465
+start station longitude                                           -71.100573
+end station id                                                           130
+end station name                    Upham's Corner TEMPORARY WINTER LOCATION
+end station latitude                                               42.317509
+end station longitude                                             -71.064166
+bikeid                                                                  1028
+usertype                                                            Customer
+birth year                                                               NaN
+gender                                                                     0
+Name: 0, dtype: object
+201804-hubway-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 98194 rows
+tripduration                                                          2254
+starttime                                         2018-04-01 00:03:32.9420
+stoptime                                          2018-04-01 00:41:07.7890
+start station id                                                        33
+start station name                                          Kenmore Square
+start station latitude                                           42.348706
+start station longitude                                         -71.097009
+end station id                                                          70
+end station name           Harvard Kennedy School at Bennett St / Eliot St
+end station latitude                                             42.372217
+end station longitude                                           -71.121881
+bikeid                                                                1253
+usertype                                                          Customer
+birth year                                                            1969
+gender                                                                   0
+Name: 0, dtype: object
+201805-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 178865 rows
+tripduration                                                         1177
+starttime                                        2018-05-01 00:01:32.4590
+stoptime                                         2018-05-01 00:21:10.0260
+start station id                                                      184
+start station name         Sidney Research Campus/ Erie Street at Waverly
+start station latitude                                          42.357753
+start station longitude                                        -71.103934
+end station id                                                        189
+end station name                                                Kendall T
+end station latitude                                            42.362428
+end station longitude                                          -71.084955
+bikeid                                                                790
+usertype                                                       Subscriber
+birth year                                                           1994
+gender                                                                  1
+Name: 0, dtype: object
+201806-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 205359 rows
+tripduration                                                       792
+starttime                                     2018-06-01 00:00:31.7580
+stoptime                                      2018-06-01 00:13:43.9540
+start station id                                                    45
+start station name                          Jersey St. at Boylston St.
+start station latitude                                       42.344681
+start station longitude                                     -71.097853
+end station id                                                       5
+end station name           Northeastern University - North Parking Lot
+end station latitude                                         42.341814
+end station longitude                                       -71.090179
+bikeid                                                            2636
+usertype                                                    Subscriber
+birth year                                                        1966
+gender                                                               1
+Name: 0, dtype: object
+201807-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 242916 rows
+tripduration                                      220
+starttime                    2018-07-01 00:01:06.5090
+stoptime                     2018-07-01 00:04:46.9020
+start station id                                   11
+start station name          Longwood Ave at Binney St
+start station latitude                      42.338629
+start station longitude                      -71.1065
+end station id                                     45
+end station name           Jersey St. at Boylston St.
+end station latitude                        42.344681
+end station longitude                      -71.097853
+bikeid                                           1188
+usertype                                     Customer
+birth year                                       1969
+gender                                              0
+Name: 0, dtype: object
+201808-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 236076 rows
+tripduration                                                    1089
+starttime                                   2018-08-01 00:00:09.3410
+stoptime                                    2018-08-01 00:18:18.8890
+start station id                                                  31
+start station name         Seaport Hotel - Congress St at Seaport Ln
+start station latitude                                      42.34881
+start station longitude                                   -71.041677
+end station id                                                   190
+end station name                   Nashua Street at Red Auerbach Way
+end station latitude                                       42.365673
+end station longitude                                     -71.064263
+bikeid                                                          1026
+usertype                                                    Customer
+birth year                                                      1969
+gender                                                             0
+Name: 0, dtype: object
+201809-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 236182 rows
+tripduration                                       2596
+starttime                      2018-09-01 00:02:30.4810
+stoptime                       2018-09-01 00:45:47.0830
+start station id                                     67
+start station name         MIT at Mass Ave / Amherst St
+start station latitude                          42.3581
+start station longitude                      -71.093198
+end station id                                       67
+end station name           MIT at Mass Ave / Amherst St
+end station latitude                            42.3581
+end station longitude                        -71.093198
+bikeid                                             3912
+usertype                                       Customer
+birth year                                         1969
+gender                                                0
+Name: 0, dtype: object
+201810-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 200100 rows
+tripduration                                        277
+starttime                      2018-10-01 00:01:57.1860
+stoptime                       2018-10-01 00:06:34.2320
+start station id                                     67
+start station name         MIT at Mass Ave / Amherst St
+start station latitude                          42.3581
+start station longitude                      -71.093198
+end station id                                      189
+end station name                              Kendall T
+end station latitude                          42.362428
+end station longitude                        -71.084955
+bikeid                                             2749
+usertype                                     Subscriber
+birth year                                         1996
+gender                                                1
+Name: 0, dtype: object
+201811-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 121419 rows
+tripduration                                            329
+starttime                          2018-11-01 00:00:02.0060
+stoptime                           2018-11-01 00:05:31.3200
+start station id                                         55
+start station name         Boylston St at Massachusetts Ave
+start station latitude                            42.347265
+start station longitude                          -71.088088
+end station id                                          342
+end station name                   Boylston St at Jersey St
+end station latitude                              42.344651
+end station longitude                            -71.097325
+bikeid                                                 2867
+usertype                                         Subscriber
+birth year                                             1991
+gender                                                    1
+Name: 0, dtype: object
+201812-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 81961 rows
+tripduration                                           777
+starttime                         2018-12-01 00:01:52.7560
+stoptime                          2018-12-01 00:14:50.3010
+start station id                                       178
+start station name         MIT Pacific St at Purrington St
+start station latitude                           42.359573
+start station longitude                         -71.101295
+end station id                                           6
+end station name                    Cambridge St at Joy St
+end station latitude                             42.361212
+end station longitude                           -71.065306
+bikeid                                                1320
+usertype                                        Subscriber
+birth year                                            1996
+gender                                                   1
+Name: 0, dtype: object
+201901-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 69872 rows
+tripduration                                                   371
+starttime                                 2019-01-01 00:09:13.7980
+stoptime                                  2019-01-01 00:15:25.3360
+start station id                                                80
+start station name         MIT Stata Center at Vassar St / Main St
+start station latitude                                   42.362131
+start station longitude                                 -71.091156
+end station id                                                 179
+end station name                                     MIT Vassar St
+end station latitude                                     42.355601
+end station longitude                                   -71.103945
+bikeid                                                        3689
+usertype                                                Subscriber
+birth year                                                    1987
+gender                                                           1
+Name: 0, dtype: object
+201902-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 80466 rows
+tripduration                                                             331
+starttime                                           2019-02-01 00:03:56.3250
+stoptime                                            2019-02-01 00:09:28.1720
+start station id                                                         108
+start station name         Harvard University / SEAS Cruft-Pierce Halls a...
+start station latitude                                             42.377945
+start station longitude                                           -71.116865
+end station id                                                           377
+end station name                                                  Perry Park
+end station latitude                                               42.379273
+end station longitude                                             -71.103419
+bikeid                                                                  3817
+usertype                                                          Subscriber
+birth year                                                              1988
+gender                                                                     1
+Name: 0, dtype: object
+201903-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 102369 rows
+tripduration                                                             513
+starttime                                           2019-03-01 00:00:50.9430
+stoptime                                            2019-03-01 00:09:24.6550
+start station id                                                          27
+start station name         Roxbury Crossing T Stop - Columbus Ave at Trem...
+start station latitude                                             42.331184
+start station longitude                                           -71.095171
+end station id                                                           282
+end station name                                          Stony Brook T Stop
+end station latitude                                               42.316966
+end station longitude                                             -71.104374
+bikeid                                                                  4088
+usertype                                                          Subscriber
+birth year                                                              1995
+gender                                                                     1
+Name: 0, dtype: object
+201904-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 166694 rows
+tripduration                                                      3363
+starttime                                     2019-04-01 00:04:38.1400
+stoptime                                      2019-04-01 01:00:41.6390
+start station id                                                     8
+start station name         Union Square - Brighton Ave at Cambridge St
+start station latitude                                       42.353334
+start station longitude                                     -71.137313
+end station id                                                       8
+end station name           Union Square - Brighton Ave at Cambridge St
+end station latitude                                         42.353334
+end station longitude                                       -71.137313
+bikeid                                                            3736
+usertype                                                      Customer
+birth year                                                        1969
+gender                                                               0
+Name: 0, dtype: object
+201905-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 223084 rows
+tripduration                                           645
+starttime                         2019-05-01 00:00:52.9480
+stoptime                          2019-05-01 00:11:38.4330
+start station id                                         9
+start station name         Commonwealth Ave at Agganis Way
+start station latitude                           42.351692
+start station longitude                         -71.119035
+end station id                                          53
+end station name            Beacon St at Massachusetts Ave
+end station latitude                             42.350827
+end station longitude                           -71.089811
+bikeid                                                3298
+usertype                                          Customer
+birth year                                            1969
+gender                                                   0
+Name: 0, dtype: object
+201906-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 274083 rows
+tripduration                                    241
+starttime                  2019-06-01 00:00:20.0010
+stoptime                   2019-06-01 00:04:21.1670
+start station id                                 81
+start station name                 Chinatown T Stop
+start station latitude                    42.352409
+start station longitude                  -71.062679
+end station id                                   48
+end station name                 Post Office Square
+end station latitude                      42.355854
+end station longitude                    -71.054597
+bikeid                                         2861
+usertype                                 Subscriber
+birth year                                     1988
+gender                                            1
+Name: 0, dtype: object
+201907-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 317028 rows
+tripduration                                     581
+starttime                   2019-07-01 00:00:41.0320
+stoptime                    2019-07-01 00:10:22.7280
+start station id                                  52
+start station name         Newbury St at Hereford St
+start station latitude                     42.348717
+start station longitude                   -71.085954
+end station id                                    58
+end station name              Mugar Way at Beacon St
+end station latitude                       42.355536
+end station longitude                     -71.072869
+bikeid                                          1377
+usertype                                    Customer
+birth year                                      1997
+gender                                             2
+Name: 0, dtype: object
+201908-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 337519 rows
+tripduration                                                 399
+starttime                               2019-08-01 00:00:01.0020
+stoptime                                2019-08-01 00:06:40.8130
+start station id                                             380
+start station name                         Mass Ave at Albany St
+start station latitude                                 42.361358
+start station longitude                               -71.096703
+end station id                                                68
+end station name           Central Square at Mass Ave / Essex St
+end station latitude                                    42.36507
+end station longitude                                   -71.1031
+bikeid                                                      2747
+usertype                                              Subscriber
+birth year                                                  1998
+gender                                                         1
+Name: 0, dtype: object
+201909-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 363185 rows
+tripduration                                           916
+starttime                         2019-09-01 00:00:21.2560
+stoptime                          2019-09-01 00:15:38.0670
+start station id                                         9
+start station name         Commonwealth Ave at Agganis Way
+start station latitude                           42.351692
+start station longitude                         -71.119035
+end station id                                          33
+end station name                            Kenmore Square
+end station latitude                             42.348706
+end station longitude                           -71.097009
+bikeid                                                4161
+usertype                                        Subscriber
+birth year                                            2000
+gender                                                   1
+Name: 0, dtype: object
+201910-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 305504 rows
+tripduration                                                 425
+starttime                               2019-10-01 00:00:28.9400
+stoptime                                2019-10-01 00:07:34.3500
+start station id                                             221
+start station name         Verizon Innovation Hub 10 Ware Street
+start station latitude                                 42.372509
+start station longitude                               -71.113054
+end station id                                                68
+end station name           Central Square at Mass Ave / Essex St
+end station latitude                                    42.36507
+end station longitude                                   -71.1031
+bikeid                                                      2990
+usertype                                              Subscriber
+birth year                                                  1982
+gender                                                         1
+Name: 0, dtype: object
+201911-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 190759 rows
+tripduration                                           386
+starttime                         2019-11-01 00:00:00.2770
+stoptime                          2019-11-01 00:06:26.7360
+start station id                                       189
+start station name                               Kendall T
+start station latitude                           42.362428
+start station longitude                         -71.084955
+end station id                                         178
+end station name           MIT Pacific St at Purrington St
+end station latitude                             42.359573
+end station longitude                           -71.101295
+bikeid                                                2511
+usertype                                        Subscriber
+birth year                                            1993
+gender                                                   1
+Name: 0, dtype: object
+201912-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 92208 rows
+tripduration                                      790
+starttime                    2019-12-01 00:01:25.3240
+stoptime                     2019-12-01 00:14:35.3350
+start station id                                  370
+start station name         Dartmouth St at Newbury St
+start station latitude                      42.350961
+start station longitude                    -71.077828
+end station id                                     33
+end station name                       Kenmore Square
+end station latitude                        42.348706
+end station longitude                      -71.097009
+bikeid                                           5133
+usertype                                   Subscriber
+birth year                                       1950
+gender                                              1
+Name: 0, dtype: object
+202001-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 128598 rows
+tripduration                                    478
+starttime                  2020-01-01 00:04:05.8090
+stoptime                   2020-01-01 00:12:04.2370
+start station id                                366
+start station name                  Broadway T Stop
+start station latitude                    42.342781
+start station longitude                  -71.057473
+end station id                                   93
+end station name                   JFK/UMass T Stop
+end station latitude                       42.32034
+end station longitude                     -71.05118
+bikeid                                         6005
+usertype                                   Customer
+birth year                                     1969
+gender                                            0
+Name: 0, dtype: object
+202002-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 133235 rows
+tripduration                                    289
+starttime                  2020-02-01 00:00:09.4460
+stoptime                   2020-02-01 00:04:58.6180
+start station id                                179
+start station name                    MIT Vassar St
+start station latitude                    42.355601
+start station longitude                  -71.103945
+end station id                                  107
+end station name                 Ames St at Main St
+end station latitude                        42.3625
+end station longitude                     -71.08822
+bikeid                                         6045
+usertype                                 Subscriber
+birth year                                     1993
+gender                                            1
+Name: 0, dtype: object
+202003-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 107350 rows
+tripduration                                           366
+starttime                         2020-03-01 00:01:09.0060
+stoptime                          2020-03-01 00:07:15.2360
+start station id                                         9
+start station name         Commonwealth Ave at Agganis Way
+start station latitude                           42.351692
+start station longitude                         -71.119035
+end station id                                         446
+end station name                     700 Commonwealth Ave.
+end station latitude                             42.349609
+end station longitude                           -71.103915
+bikeid                                                5566
+usertype                                          Customer
+birth year                                            1969
+gender                                                   0
+Name: 0, dtype: object
+202004-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'birth year', 'gender'],
+      dtype='object') : 46793 rows
+tripduration                                        297
+starttime                      2020-04-01 00:12:27.8580
+stoptime                       2020-04-01 00:17:25.3980
+start station id                                     67
+start station name         MIT at Mass Ave / Amherst St
+start station latitude                          42.3581
+start station longitude                      -71.093198
+end station id                                      179
+end station name                          MIT Vassar St
+end station latitude                          42.355601
+end station longitude                        -71.103945
+bikeid                                             2221
+usertype                                     Subscriber
+birth year                                         1991
+gender                                                1
+Name: 0, dtype: object
+202005-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 124879 rows
+tripduration                                                            1577
+starttime                                           2020-05-01 00:03:09.7400
+stoptime                                            2020-05-01 00:29:26.9630
+start station id                                                          74
+start station name                       Harvard Square at Mass Ave/ Dunster
+start station latitude                                             42.373268
+start station longitude                                           -71.118579
+end station id                                                            97
+end station name           Harvard University River Houses at DeWolfe St ...
+end station latitude                                                42.36919
+end station longitude                                             -71.117141
+bikeid                                                                  3941
+usertype                                                            Customer
+postal code                                                              NaN
+Name: 0, dtype: object
+202006-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 191843 rows
+tripduration                                   1160
+starttime                  2020-06-01 00:00:25.6240
+stoptime                   2020-06-01 00:19:45.7010
+start station id                                192
+start station name          Purchase St at Pearl St
+start station latitude                    42.354659
+start station longitude                  -71.053181
+end station id                                  366
+end station name                    Broadway T Stop
+end station latitude                      42.342781
+end station longitude                    -71.057473
+bikeid                                         2831
+usertype                                   Customer
+postal code                                     NaN
+Name: 0, dtype: object
+202007-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 259726 rows
+tripduration                                                       259
+starttime                                     2020-07-01 00:01:15.0430
+stoptime                                      2020-07-01 00:05:34.1010
+start station id                                                    16
+start station name         Back Bay T Stop - Dartmouth St at Stuart St
+start station latitude                                       42.348074
+start station longitude                                      -71.07657
+end station id                                                      26
+end station name                           Washington St at Waltham St
+end station latitude                                         42.341575
+end station longitude                                       -71.068904
+bikeid                                                            6059
+usertype                                                    Subscriber
+postal code                                                      02118
+Name: 0, dtype: object
+202008-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 289033 rows
+tripduration                                   2902
+starttime                  2020-08-01 00:00:22.1700
+stoptime                   2020-08-01 00:48:44.4150
+start station id                                161
+start station name               W Broadway at D St
+start station latitude                    42.339109
+start station longitude                  -71.051443
+end station id                                  176
+end station name                  Lesley University
+end station latitude                      42.386748
+end station longitude                    -71.119019
+bikeid                                         3424
+usertype                                   Customer
+postal code                                   02155
+Name: 0, dtype: object
+202009-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 307853 rows
+tripduration                                                   433
+starttime                                 2020-09-01 00:00:30.6120
+stoptime                                  2020-09-01 00:07:44.1990
+start station id                                               381
+start station name                 Inman Square at Springfield St.
+start station latitude                                   42.374384
+start station longitude                                 -71.100157
+end station id                                                 413
+end station name           Kennedy-Longfellow School 158 Spring St
+end station latitude                                     42.369553
+end station longitude                                    -71.08579
+bikeid                                                        4449
+usertype                                                Subscriber
+postal code                                                  02139
+Name: 0, dtype: object
+202010-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 248424 rows
+tripduration                                                             230
+starttime                                           2020-10-01 00:00:21.2140
+stoptime                                            2020-10-01 00:04:12.0810
+start station id                                                         104
+start station name         Harvard University Radcliffe Quadrangle at She...
+start station latitude                                             42.380287
+start station longitude                                           -71.125107
+end station id                                                            74
+end station name                         Harvard Square at Mass Ave/ Dunster
+end station latitude                                               42.373268
+end station longitude                                             -71.118579
+bikeid                                                                  4090
+usertype                                                          Subscriber
+postal code                                                            02138
+Name: 0, dtype: object
+202011-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 161712 rows
+tripduration                                      1793
+starttime                     2020-11-01 00:00:18.3990
+stoptime                      2020-11-01 00:30:12.2630
+start station id                                   186
+start station name         Congress St at Northern Ave
+start station latitude                         42.3481
+start station longitude                      -71.03764
+end station id                                     186
+end station name           Congress St at Northern Ave
+end station latitude                           42.3481
+end station longitude                        -71.03764
+bikeid                                            4896
+usertype                                      Customer
+postal code                                      11214
+Name: 0, dtype: object
+202012-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 74002 rows
+tripduration                                                   346
+starttime                                 2020-12-01 00:00:05.8270
+stoptime                                  2020-12-01 00:05:51.9840
+start station id                                               149
+start station name                                175 N Harvard St
+start station latitude                                   42.363796
+start station longitude                                 -71.129164
+end station id                                                  73
+end station name           Harvard Square at Brattle St / Eliot St
+end station latitude                                     42.373231
+end station longitude                                   -71.120886
+bikeid                                                        2276
+usertype                                                  Customer
+postal code                                                  02135
+Name: 0, dtype: object
+202101-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 71805 rows
+tripduration                                                            914
+starttime                                          2021-01-01 00:00:04.5900
+stoptime                                           2021-01-01 00:15:19.1680
+start station id                                                         91
+start station name         One Kendall Square at Hampshire St / Portland St
+start station latitude                                            42.366277
+start station longitude                                           -71.09169
+end station id                                                          370
+end station name                                 Dartmouth St at Newbury St
+end station latitude                                              42.350961
+end station longitude                                            -71.077828
+bikeid                                                                 5316
+usertype                                                           Customer
+postal code                                                           02139
+Name: 0, dtype: object
+202102-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 60447 rows
+tripduration                                                    401
+starttime                                  2021-02-01 00:00:34.5410
+stoptime                                   2021-02-01 00:07:15.7180
+start station id                                                 69
+start station name         Coolidge Corner - Beacon St at Centre St
+start station latitude                                    42.341598
+start station longitude                                  -71.123338
+end station id                                                   82
+end station name                             Beacon St at Tappan St
+end station latitude                                      42.338267
+end station longitude                                    -71.138947
+bikeid                                                         5478
+usertype                                                 Subscriber
+postal code                                                   02139
+Name: 0, dtype: object
+202103-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 139046 rows
+tripduration                                     6022
+starttime                    2021-03-01 00:00:55.1360
+stoptime                     2021-03-01 01:41:17.9150
+start station id                                  331
+start station name         Huntington Ave at Mass Art
+start station latitude                      42.336586
+start station longitude                     -71.09887
+end station id                                    331
+end station name           Huntington Ave at Mass Art
+end station latitude                        42.336586
+end station longitude                       -71.09887
+bikeid                                           6669
+usertype                                     Customer
+postal code                                     02021
+Name: 0, dtype: object
+202104-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 187816 rows
+tripduration                                    845
+starttime                  2021-04-01 00:00:01.6330
+stoptime                   2021-04-01 00:14:07.1040
+start station id                                342
+start station name         Boylston St at Jersey St
+start station latitude                    42.344651
+start station longitude                  -71.097325
+end station id                                  376
+end station name                      Honan Library
+end station latitude                      42.360274
+end station longitude                    -71.128525
+bikeid                                         4245
+usertype                                 Subscriber
+postal code                                   02134
+Name: 0, dtype: object
+202105-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 270893 rows
+tripduration                                         609
+starttime                       2021-05-01 00:00:01.0450
+stoptime                        2021-05-01 00:10:10.7300
+start station id                                      66
+start station name         Commonwealth Ave at Griggs St
+start station latitude                         42.349225
+start station longitude                       -71.132753
+end station id                                       400
+end station name                        Lansdowne T Stop
+end station latitude                           42.347345
+end station longitude                         -71.100168
+bikeid                                              4885
+usertype                                      Subscriber
+postal code                                        02134
+Name: 0, dtype: object
+202106-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 311969 rows
+tripduration                                              1146
+starttime                             2021-06-01 00:00:00.9380
+stoptime                              2021-06-01 00:19:06.9480
+start station id                                           117
+start station name                        Binney St / Sixth St
+start station latitude                               42.366088
+start station longitude                             -71.086336
+end station id                                              74
+end station name           Harvard Square at Mass Ave/ Dunster
+end station latitude                                 42.373268
+end station longitude                               -71.118579
+bikeid                                                    6236
+usertype                                            Subscriber
+postal code                                              02142
+Name: 0, dtype: object
+202107-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 309403 rows
+tripduration                                               1743
+starttime                              2021-07-01 00:00:01.6360
+stoptime                               2021-07-01 00:29:05.4530
+start station id                                            414
+start station name         Discovery Park - 30 Acorn Park Drive
+start station latitude                                42.397908
+start station longitude                              -71.147971
+end station id                                              465
+end station name                         Broadway at Grafton St
+end station latitude                                  42.409942
+end station longitude                                -71.140093
+bikeid                                                     4388
+usertype                                               Customer
+postal code                                               02474
+Name: 0, dtype: object
+202108-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 357338 rows
+tripduration                                   1686
+starttime                  2021-08-01 00:00:07.5290
+stoptime                   2021-08-01 00:28:14.0600
+start station id                                 94
+start station name             Main St at Austin St
+start station latitude                    42.375603
+start station longitude                  -71.064608
+end station id                                   94
+end station name               Main St at Austin St
+end station latitude                      42.375603
+end station longitude                    -71.064608
+bikeid                                         3715
+usertype                                   Customer
+postal code                                   02127
+Name: 0, dtype: object
+202109-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 432254 rows
+tripduration                                    651
+starttime                  2021-09-01 00:00:04.0060
+stoptime                   2021-09-01 00:10:55.9040
+start station id                                 93
+start station name                 JFK/UMass T Stop
+start station latitude                     42.32034
+start station longitude                   -71.05118
+end station id                                  296
+end station name           Farragut Rd at E. 6th St
+end station latitude                        42.3334
+end station longitude                     -71.02495
+bikeid                                         6612
+usertype                                   Customer
+postal code                                     NaN
+Name: 0, dtype: object
+202110-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 399182 rows
+tripduration                                                         359
+starttime                                       2021-10-01 00:00:09.3280
+stoptime                                        2021-10-01 00:06:08.9300
+start station id                                                      72
+start station name         One Broadway / Kendall Sq at Main St / 3rd St
+start station latitude                                         42.362242
+start station longitude                                       -71.083111
+end station id                                                         6
+end station name                                  Cambridge St at Joy St
+end station latitude                                           42.361257
+end station longitude                                         -71.065287
+bikeid                                                              7548
+usertype                                                      Subscriber
+postal code                                                        02114
+Name: 0, dtype: object
+202111-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 250925 rows
+tripduration                                       178
+starttime                     2021-11-01 00:00:04.0950
+stoptime                      2021-11-01 00:03:02.5890
+start station id                                    26
+start station name         Washington St at Waltham St
+start station latitude                       42.341575
+start station longitude                     -71.068904
+end station id                                     363
+end station name           Harrison Ave at Mullins Way
+end station latitude                         42.345216
+end station longitude                        -71.06384
+bikeid                                            3300
+usertype                                    Subscriber
+postal code                                      02118
+Name: 0, dtype: object
+202112-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 143300 rows
+tripduration                                               2522
+starttime                              2021-12-01 00:00:00.0270
+stoptime                               2021-12-01 00:42:02.5320
+start station id                                            143
+start station name                        EF - North Point Park
+start station latitude                                42.369885
+start station longitude                              -71.069957
+end station id                                              437
+end station name           Berkshire Street at Cambridge Street
+end station latitude                                  42.372077
+end station longitude                                -71.089954
+bikeid                                                     5343
+usertype                                             Subscriber
+postal code                                                 NaN
+Name: 0, dtype: object
+202201-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 81613 rows
+tripduration                                               597
+starttime                             2022-01-01 00:00:25.1660
+stoptime                              2022-01-01 00:10:22.1920
+start station id                                           178
+start station name             MIT Pacific St at Purrington St
+start station latitude                               42.359573
+start station longitude                             -71.101295
+end station id                                              74
+end station name           Harvard Square at Mass Ave/ Dunster
+end station latitude                                 42.373268
+end station longitude                               -71.118579
+bikeid                                                    4923
+usertype                                            Subscriber
+postal code                                              02139
+Name: 0, dtype: object
+202202-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 110460 rows
+tripduration                                                     457
+starttime                                   2022-02-01 00:01:22.5160
+stoptime                                    2022-02-01 00:09:00.2370
+start station id                                                 380
+start station name                             Mass Ave at Albany St
+start station latitude                                     42.361358
+start station longitude                                   -71.096703
+end station id                                                   116
+end station name           359 Broadway - Broadway at Fayette Street
+end station latitude                                       42.370803
+end station longitude                                     -71.104412
+bikeid                                                          6720
+usertype                                                  Subscriber
+postal code                                                    02139
+Name: 0, dtype: object
+202203-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 182421 rows
+tripduration                                        298
+starttime                      2022-03-01 00:00:03.6830
+stoptime                       2022-03-01 00:05:01.7310
+start station id                                     67
+start station name         MIT at Mass Ave / Amherst St
+start station latitude                          42.3581
+start station longitude                      -71.093198
+end station id                                      179
+end station name                          MIT Vassar St
+end station latitude                          42.355601
+end station longitude                        -71.103945
+bikeid                                             6035
+usertype                                     Subscriber
+postal code                                       02139
+Name: 0, dtype: object
+202204-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 274264 rows
+tripduration                                                             455
+starttime                                           2022-04-01 00:00:09.4950
+stoptime                                            2022-04-01 00:07:45.1920
+start station id                                                           3
+start station name         Colleges of the Fenway - Fenway at Avenue Loui...
+start station latitude                                             42.340115
+start station longitude                                           -71.100619
+end station id                                                            55
+end station name                            Boylston St at Massachusetts Ave
+end station latitude                                               42.347406
+end station longitude                                             -71.086784
+bikeid                                                                  5045
+usertype                                                          Subscriber
+postal code                                                            02115
+Name: 0, dtype: object
+202205-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 350660 rows
+tripduration                                                 536
+starttime                               2022-05-01 00:00:23.1570
+stoptime                                2022-05-01 00:09:19.3550
+start station id                                             119
+start station name         South Boston Library - 646 E Broadway
+start station latitude                                 42.335741
+start station longitude                                -71.03877
+end station id                                                93
+end station name                                JFK/UMass T Stop
+end station latitude                                    42.32034
+end station longitude                                  -71.05118
+bikeid                                                      3111
+usertype                                              Subscriber
+postal code                                                02127
+Name: 0, dtype: object
+202206-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 388531 rows
+tripduration                                            777
+starttime                          2022-06-01 00:00:08.4950
+stoptime                           2022-06-01 00:13:06.3860
+start station id                                        462
+start station name          Linwood St at Minuteman Bikeway
+start station latitude                            42.409354
+start station longitude                          -71.149065
+end station id                                          142
+end station name           Alewife Station at Russell Field
+end station latitude                              42.396105
+end station longitude                            -71.139459
+bikeid                                                 7025
+usertype                                         Subscriber
+postal code                                           02138
+Name: 0, dtype: object
+202207-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 430585 rows
+tripduration                                         1322
+starttime                        2022-07-01 00:00:01.2710
+stoptime                         2022-07-01 00:22:03.7400
+start station id                                       53
+start station name         Beacon St at Massachusetts Ave
+start station latitude                          42.350827
+start station longitude                        -71.089811
+end station id                                        360
+end station name            Bartlett St at John Elliot Sq
+end station latitude                            42.329463
+end station longitude                          -71.090158
+bikeid                                               3534
+usertype                                       Subscriber
+postal code                                         01609
+Name: 0, dtype: object
+202208-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 487201 rows
+tripduration                                    397
+starttime                  2022-08-01 00:00:01.2930
+stoptime                   2022-08-01 00:06:38.9530
+start station id                                416
+start station name         Blossom St at Charles St
+start station latitude                    42.364356
+start station longitude                  -71.069594
+end station id                                  185
+end station name                    Third at Binney
+end station latitude                      42.365445
+end station longitude                    -71.082771
+bikeid                                         2423
+usertype                                 Subscriber
+postal code                                   02138
+Name: 0, dtype: object
+202209-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 601049 rows
+tripduration                                                          2454
+starttime                                         2022-09-01 00:00:27.8020
+stoptime                                          2022-09-01 00:41:22.2590
+start station id                                                       345
+start station name                             Park Plaza at Charles St S.
+start station latitude                                           42.351828
+start station longitude                                         -71.067811
+end station id                                                         235
+end station name           East Somerville Library (Broadway and Illinois)
+end station latitude                                             42.387628
+end station longitude                                           -71.083187
+bikeid                                                                7414
+usertype                                                        Subscriber
+postal code                                                          02145
+Name: 0, dtype: object
+202210-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 416964 rows
+tripduration                                                            1300
+starttime                                           2022-10-01 00:00:05.7890
+stoptime                                            2022-10-01 00:21:46.5320
+start station id                                                         471
+start station name                             MIT Carleton St at Amherst St
+start station latitude                                             42.360542
+start station longitude                                           -71.086698
+end station id                                                           492
+end station name           Harvard Stadium: N. Harvard St at Soldiers Fie...
+end station latitude                                               42.368019
+end station longitude                                               -71.1242
+bikeid                                                                  7269
+usertype                                                          Subscriber
+postal code                                                            60101
+Name: 0, dtype: object
+202211-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 290621 rows
+tripduration                                                             803
+starttime                                           2022-11-01 00:00:04.9940
+stoptime                                            2022-11-01 00:13:28.6550
+start station id                                                          46
+start station name         Christian Science Plaza - Massachusetts Ave at...
+start station latitude                                             42.343666
+start station longitude                                           -71.085824
+end station id                                                           472
+end station name                                MIT Hayward St at Amherst St
+end station latitude                                               42.360859
+end station longitude                                             -71.085519
+bikeid                                                                  2088
+usertype                                                          Subscriber
+postal code                                                            02142
+Name: 0, dtype: object
+202212-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 142912 rows
+tripduration                                    180
+starttime                  2022-12-01 00:02:44.9630
+stoptime                   2022-12-01 00:05:45.2260
+start station id                                115
+start station name            Porter Square Station
+start station latitude                    42.387995
+start station longitude                  -71.119084
+end station id                                   99
+end station name                      Wilson Square
+end station latitude                      42.385676
+end station longitude                    -71.114121
+bikeid                                         8245
+usertype                                 Subscriber
+postal code                                   02143
+Name: 0, dtype: object
+202301-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 140340 rows
+tripduration                                                       250
+starttime                                     2023-01-01 00:02:54.0800
+stoptime                                      2023-01-01 00:07:04.4100
+start station id                                                    36
+start station name         Copley Square - Dartmouth St at Boylston St
+start station latitude                                       42.349928
+start station longitude                                     -71.077392
+end station id                                                      21
+end station name                Prudential Center - 101 Huntington Ave
+end station latitude                                          42.34652
+end station longitude                                       -71.080658
+bikeid                                                            4213
+usertype                                                    Subscriber
+postal code                                                      02115
+Name: 0, dtype: object
+202302-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 152975 rows
+tripduration                                                             263
+starttime                                           2023-02-01 00:00:50.0410
+stoptime                                            2023-02-01 00:05:13.7090
+start station id                                                         330
+start station name                                                30 Dane St
+start station latitude                                             42.381001
+start station longitude                                           -71.104025
+end station id                                                           110
+end station name           Harvard University Gund Hall at Quincy St / Ki...
+end station latitude                                               42.376369
+end station longitude                                             -71.114025
+bikeid                                                                  7334
+usertype                                                          Subscriber
+postal code                                                            02138
+Name: 0, dtype: object
+202303-bluebikes-tripdata.csv: Index(['tripduration', 'starttime', 'stoptime', 'start station id',
+       'start station name', 'start station latitude',
+       'start station longitude', 'end station id', 'end station name',
+       'end station latitude', 'end station longitude', 'bikeid', 'usertype',
+       'postal code'],
+      dtype='object') : 199003 rows
+tripduration                                                  1105
+starttime                                 2023-03-01 00:00:44.1520
+stoptime                                  2023-03-01 00:19:09.9080
+start station id                                               386
+start station name         Sennott Park Broadway at Norfolk Street
+start station latitude                                   42.368605
+start station longitude                                 -71.099302
+end station id                                                 403
+end station name                           Marion St at Harvard St
+end station latitude                                     42.340122
+end station longitude                                   -71.120706
+bikeid                                                        6680
+usertype                                                Subscriber
+postal code                                                  02139
+Name: 0, dtype: object
+202304-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 296291 rows
+ride_id                                             0093AA5E7E3E0158
+rideable_type                                            docked_bike
+started_at                                       2023-04-13 13:49:59
+ended_at                                         2023-04-13 13:55:04
+start_station_name    Innovation Lab - 125 Western Ave at Batten Way
+start_station_id                                              A32011
+end_station_name               Soldiers Field Park - 111 Western Ave
+end_station_id                                                A32006
+start_lat                                                  42.363713
+start_lng                                                 -71.124598
+end_lat                                                    42.364263
+end_lng                                                   -71.118276
+member_casual                                                 member
+Name: 0, dtype: object
+202305-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 387593 rows
+ride_id                                1B02948DE59E8569
+rideable_type                               docked_bike
+started_at                          2023-05-22 16:16:20
+ended_at                            2023-05-22 17:06:23
+start_station_name         Williams St at Washington St
+start_station_id                                 D32040
+end_station_name      NCAAA - Walnut Ave at Crawford St
+end_station_id                                   B32027
+start_lat                                     42.306539
+start_lng                                    -71.107669
+end_lat                                       42.316902
+end_lng                                      -71.091946
+member_casual                                    casual
+Name: 0, dtype: object
+202306-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 367839 rows
+ride_id                                                46B2D1F48BA690A6
+rideable_type                                               docked_bike
+started_at                                          2023-06-02 22:19:25
+ended_at                                            2023-06-02 22:22:01
+start_station_name    Christian Science Plaza - Massachusetts Ave at...
+start_station_id                                                 B32005
+end_station_name      Christian Science Plaza - Massachusetts Ave at...
+end_station_id                                                   B32005
+start_lat                                                     42.343666
+start_lng                                                    -71.085824
+end_lat                                                       42.343666
+end_lng                                                      -71.085824
+member_casual                                                    casual
+Name: 0, dtype: object
+202307-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 411509 rows
+ride_id                                                C694F27EDA2FB2A3
+rideable_type                                               docked_bike
+started_at                                          2023-07-18 13:48:34
+ended_at                                            2023-07-18 13:58:44
+start_station_name    Roxbury Crossing T Stop - Columbus Ave at Trem...
+start_station_id                                                 C32001
+end_station_name      Christian Science Plaza - Massachusetts Ave at...
+end_station_id                                                   B32005
+start_lat                                                     42.331184
+start_lng                                                    -71.095171
+end_lat                                                       42.343666
+end_lng                                                      -71.085824
+member_casual                                                    member
+Name: 0, dtype: object
+202308-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 441706 rows
+ride_id                        7F50CA312E9FA1C0
+rideable_type                       docked_bike
+started_at                  2023-08-23 08:02:02
+ended_at                    2023-08-23 08:05:44
+start_station_name      Surface Rd at Summer St
+start_station_id                         A32042
+end_station_name      Harrison Ave at Bennet St
+end_station_id                           D32043
+start_lat                             42.352946
+start_lng                            -71.056564
+end_lat                               42.349426
+end_lng                                -71.0621
+member_casual                            member
+Name: 0, dtype: object
+202309-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 419874 rows
+ride_id                                            BC096451A56F7BBA
+rideable_type                                           docked_bike
+started_at                                      2023-09-30 01:43:08
+ended_at                                        2023-09-30 01:43:41
+start_station_name    One Broadway / Kendall Sq at Main St / 3rd St
+start_station_id                                             M32003
+end_station_name      One Broadway / Kendall Sq at Main St / 3rd St
+end_station_id                                               M32003
+start_lat                                                 42.362242
+start_lng                                                -71.083111
+end_lat                                                   42.362242
+end_lng                                                  -71.083111
+member_casual                                                member
+Name: 0, dtype: object
+202310-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 435867 rows
+ride_id                                               68C904BE63A1CB96
+rideable_type                                              docked_bike
+started_at                                         2023-10-15 16:24:14
+ended_at                                           2023-10-15 16:41:52
+start_station_name    One Kendall Square at Hampshire St / Portland St
+start_station_id                                                M32002
+end_station_name            Landmark Center - Brookline Ave at Park Dr
+end_station_id                                                  B32015
+start_lat                                                    42.366277
+start_lng                                                    -71.09169
+end_lat                                                      42.343691
+end_lng                                                     -71.102353
+member_casual                                                   casual
+Name: 0, dtype: object
+202311-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 270816 rows
+ride_id                                      55FDA41F368AD2BB
+rideable_type                                     docked_bike
+started_at                                2023-11-05 15:11:33
+ended_at                                  2023-11-05 15:31:10
+start_station_name           Alewife Station at Russell Field
+start_station_id                                       M32033
+end_station_name      Harvard Square at Brattle St / Eliot St
+end_station_id                                         M32017
+start_lat                                           42.396105
+start_lng                                          -71.139459
+end_lat                                             42.373329
+end_lng                                            -71.120986
+member_casual                                          casual
+Name: 0, dtype: object
+202312-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 169380 rows
+ride_id                         A9D2C85B578F3C3D
+rideable_type                       classic_bike
+started_at                   2023-12-25 15:58:43
+ended_at                     2023-12-25 16:14:11
+start_station_name    Essex St at Dalton Parkway
+start_station_id                          T32011
+end_station_name             Hawthorne Boulevard
+end_station_id                            T32008
+start_lat                              42.516223
+start_lng                             -70.905535
+end_lat                                42.522371
+end_lng                               -70.890333
+member_casual                             member
+Name: 0, dtype: object
+202401-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 166699 rows
+ride_id                                    D2F4A4783B230A84
+rideable_type                                 electric_bike
+started_at                              2024-01-31 12:16:49
+ended_at                                2024-01-31 12:21:02
+start_station_name                       Ames St at Main St
+start_station_id                                     M32037
+end_station_name      Central Square at Mass Ave / Essex St
+end_station_id                                       M32011
+start_lat                                         42.362357
+start_lng                                        -71.088163
+end_lat                                            42.36507
+end_lng                                            -71.1031
+member_casual                                        member
+Name: 0, dtype: object
+202402-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 231947 rows
+ride_id                               8B2BB46B153DFF46
+rideable_type                             classic_bike
+started_at                         2024-02-26 15:59:59
+ended_at                           2024-02-26 16:19:59
+start_station_name    Boylston St at Massachusetts Ave
+start_station_id                                B32018
+end_station_name                  Main St at Austin St
+end_station_id                                  D32020
+start_lat                                    42.347406
+start_lng                                   -71.086784
+end_lat                                      42.375603
+end_lng                                     -71.064608
+member_casual                                   casual
+Name: 0, dtype: object
+202403-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 261687 rows
+ride_id                               36F2D943CB689742
+rideable_type                            electric_bike
+started_at                         2024-03-20 08:18:13
+ended_at                           2024-03-20 08:28:36
+start_station_name    South Station - 700 Atlantic Ave
+start_station_id                                A32010
+end_station_name               Warren St at Chelsea St
+end_station_id                                  D32021
+start_lat                                    42.352623
+start_lng                                   -71.055692
+end_lat                                      42.371848
+end_lng                                     -71.060292
+member_casual                                   member
+Name: 0, dtype: object
+202404-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 356327 rows
+ride_id                                      399F3B5640FA95C7
+rideable_type                                    classic_bike
+started_at                                2024-04-30 16:56:01
+ended_at                                  2024-04-30 19:12:48
+start_station_name    Everett Square (Broadway at Norwood St)
+start_station_id                                       V32003
+end_station_name                        Chelsea St at Vine St
+end_station_id                                         V32016
+start_lat                                           42.406721
+start_lng                                          -71.056438
+end_lat                                             42.403369
+end_lng                                            -71.047314
+member_casual                                          casual
+Name: 0, dtype: object
+202405-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 440534 rows
+ride_id                                                2223D2584B189BDA
+rideable_type                                              classic_bike
+started_at                                          2024-05-29 13:40:33
+ended_at                                            2024-05-29 13:59:41
+start_station_name                              Bowdoin St at Quincy St
+start_station_id                                                 B32031
+end_station_name      Christian Science Plaza - Massachusetts Ave at...
+end_station_id                                                   B32005
+start_lat                                                     42.307852
+start_lng                                                    -71.065122
+end_lat                                                       42.343666
+end_lng                                                      -71.085824
+member_casual                                                    member
+Name: 0, dtype: object
+202406-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 478860 rows
+ride_id                                                68B619BB8F5938F6
+rideable_type                                              classic_bike
+started_at                                      2024-06-27 15:40:33.729
+ended_at                                        2024-06-27 15:44:55.420
+start_station_name    Cambridge Main Library at Broadway / Trowbridg...
+start_station_id                                                 M32013
+end_station_name      Central Sq Post Office / Cambridge City Hall a...
+end_station_id                                                   M32012
+start_lat                                                     42.373379
+start_lng                                                    -71.111075
+end_lat                                                       42.366426
+end_lng                                                      -71.105495
+member_casual                                                    member
+Name: 0, dtype: object
+202407-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 542622 rows
+ride_id                           5FA2A0E02EC53028
+rideable_type                         classic_bike
+started_at                 2024-07-11 02:07:46.443
+ended_at                   2024-07-11 02:20:34.180
+start_station_name    Maverick St at Massport Path
+start_station_id                            A32044
+end_station_name      Maverick St at Massport Path
+end_station_id                              A32044
+start_lat                                42.367741
+start_lng                                -71.03336
+end_lat                                  42.367741
+end_lng                                  -71.03336
+member_casual                               member
+Name: 0, dtype: object
+202408-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 538262 rows
+ride_id                      9555B91492D25570
+rideable_type                    classic_bike
+started_at            2024-08-01 07:10:11.880
+ended_at              2024-08-01 07:26:03.962
+start_station_name      Main St at Baldwin St
+start_station_id                       D32036
+end_station_name      Purchase St at Pearl St
+end_station_id                         A32026
+start_lat                           42.380857
+start_lng                          -71.070629
+end_lat                             42.354659
+end_lng                            -71.053181
+member_casual                          member
+Name: 0, dtype: object
+202409-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 582679 rows
+ride_id                                063BFCFD9F16B545
+rideable_type                              classic_bike
+started_at                      2024-09-29 09:33:59.648
+ended_at                        2024-09-29 09:38:54.194
+start_station_name            MLK Blvd at Washington St
+start_station_id                                 B32023
+end_station_name      NCAAA - Walnut Ave at Crawford St
+end_station_id                                   B32027
+start_lat                                     42.321438
+start_lng                                    -71.091261
+end_lat                                       42.316902
+end_lng                                      -71.091946
+member_casual                                    member
+Name: 0, dtype: object
+202410-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 564156 rows
+ride_id                      8717366541095C47
+rideable_type                   electric_bike
+started_at            2024-10-22 12:15:45.987
+ended_at              2024-10-22 13:58:05.502
+start_station_name              645 Summer St
+start_station_id                       C32091
+end_station_name                          NaN
+end_station_id                            NaN
+start_lat                           42.341781
+start_lng                           -71.03987
+end_lat                                 42.32
+end_lng                                -71.03
+member_casual                          casual
+Name: 0, dtype: object
+202411-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 397406 rows
+ride_id                      41D45A0F4484EE42
+rideable_type                   electric_bike
+started_at            2024-11-09 15:04:32.589
+ended_at              2024-11-09 15:12:26.672
+start_station_name             160 Arsenal St
+start_station_id                       W32006
+end_station_name                Arsenal Yards
+end_station_id                         W32004
+start_lat                           42.364664
+start_lng                          -71.175694
+end_lat                             42.362774
+end_lng                            -71.157649
+member_casual                          member
+Name: 0, dtype: object
+202412-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 190611 rows
+ride_id                      10AD0827A8046CD0
+rideable_type                    classic_bike
+started_at            2024-12-31 20:48:43.720
+ended_at              2024-12-31 20:50:07.408
+start_station_name           Lewis Mall Wharf
+start_station_id                       A32057
+end_station_name             Lewis Mall Wharf
+end_station_id                         A32057
+start_lat                           42.365679
+start_lng                          -71.040301
+end_lat                             42.365679
+end_lng                            -71.040301
+member_casual                          casual
+Name: 0, dtype: object
+202501-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 162316 rows
+ride_id                      215E35C14D594F94
+rideable_type                    classic_bike
+started_at            2025-01-03 20:24:01.599
+ended_at              2025-01-03 20:28:53.443
+start_station_name     Cambridge St at Joy St
+start_station_id                       D32000
+end_station_name       Cross St at Hanover St
+end_station_id                         D32010
+start_lat                           42.361257
+start_lng                          -71.065287
+end_lat                             42.362811
+end_lng                            -71.056067
+member_casual                          member
+Name: 0, dtype: object
+202502-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 166022 rows
+ride_id                                             E6EBD435940BB87D
+rideable_type                                           classic_bike
+started_at                                   2025-02-22 12:47:40.253
+ended_at                                     2025-02-22 12:56:05.650
+start_station_name                Western Ave at Leo Birmingham Pkwy
+start_station_id                                              A32064
+end_station_name      Innovation Lab - 125 Western Ave at Batten Way
+end_station_id                                                A32011
+start_lat                                                  42.361559
+start_lng                                                  -71.14506
+end_lat                                                    42.363713
+end_lng                                                   -71.124598
+member_casual                                                 member
+Name: 0, dtype: object
+202503-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 272088 rows
+ride_id                                    4FDB3C7F0403C949
+rideable_type                                  classic_bike
+started_at                          2025-03-10 18:26:06.049
+ended_at                            2025-03-10 18:32:06.471
+start_station_name                   Tremont St at Court St
+start_station_id                                     A32058
+end_station_name      Ink Block - Harrison Ave at Herald St
+end_station_id                                       C32025
+start_lat                                         42.359086
+start_lng                                         -71.05971
+end_lat                                           42.345901
+end_lng                                          -71.063187
+member_casual                                        member
+Name: 0, dtype: object
+202504-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 373940 rows
+ride_id                                    0CB95C5072A9A0E5
+rideable_type                                  classic_bike
+started_at                          2025-04-13 21:06:54.496
+ended_at                            2025-04-13 21:17:17.456
+start_station_name        NCAAA - Walnut Ave at Crawford St
+start_station_id                                     B32027
+end_station_name      Hyde Square - Centre St at Perkins St
+end_station_id                                       E32003
+start_lat                                         42.316902
+start_lng                                        -71.091946
+end_lat                                           42.321765
+end_lng                                          -71.109842
+member_casual                                        member
+Name: 0, dtype: object
+202505-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 429840 rows
+ride_id                          6D667CB9889AB564
+rideable_type                        classic_bike
+started_at                2025-05-02 17:49:21.907
+ended_at                  2025-05-02 17:54:06.090
+start_station_name    Tremont St at E Berkeley St
+start_station_id                           C32000
+end_station_name        Harrison Ave at Bennet St
+end_station_id                             D32043
+start_lat                               42.345392
+start_lng                              -71.069616
+end_lat                                 42.349426
+end_lng                                  -71.0621
+member_casual                              member
+Name: 0, dtype: object
+202506-bluebikes-tripdata.csv: Index(['ride_id', 'rideable_type', 'started_at', 'ended_at',
+       'start_station_name', 'start_station_id', 'end_station_name',
+       'end_station_id', 'start_lat', 'start_lng', 'end_lat', 'end_lng',
+       'member_casual'],
+      dtype='object') : 488202 rows
+ride_id                                              194CC762AB6B0071
+rideable_type                                            classic_bike
+started_at                                    2025-06-17 14:05:23.872
+ended_at                                      2025-06-17 14:15:42.154
+start_station_name                          Harrison Ave at Bennet St
+start_station_id                                               D32043
+end_station_name      Boston Public Market - Surface Rd at Sudbury St
+end_station_id                                                 D32027
+start_lat                                                   42.349426
+start_lng                                                    -71.0621
+end_lat                                                     42.362561
+end_lng                                                    -71.057489
+member_casual                                                  member
+Name: 0, dtype: object
+{'tripduration': 99, 'starttime': 99, 'stoptime': 99, 'start station id': 99, 'start station name': 99, 'start station latitude': 99, 'start station longitude': 99, 'end station id': 99, 'end station name': 99, 'end station latitude': 99, 'end station longitude': 99, 'bikeid': 99, 'usertype': 99, 'birth year': 64, 'gender': 64, 'postal code': 35, 'ride_id': 27, 'rideable_type': 27, 'started_at': 27, 'ended_at': 27, 'start_station_name': 27, 'start_station_id': 27, 'end_station_name': 27, 'end_station_id': 27, 'start_lat': 27, 'start_lng': 27, 'end_lat': 27, 'end_lng': 27, 'member_casual': 27}
+Num total rows: 27065610
